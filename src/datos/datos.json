@@ -1,0 +1,23 @@
+{
+    "elements": [
+        {
+            "title":"REVENUE",
+            "total":"200000",
+            "simbol":"€",
+            "tablet":"60",
+            "smartPhone":"40"
+        },
+        {
+            "title": "IMPRESIONS",
+            "total": "50000000",
+            "tablet": "40",
+            "smartPhone": "60"
+        },
+        {
+            "title": "VISITS",
+            "total": "600000000",
+            "tablet": "80",
+            "smartPhone": "20"
+        }
+    ]
+}
