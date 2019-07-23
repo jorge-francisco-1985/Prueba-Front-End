@@ -3,7 +3,7 @@ class HeaderNav extends Component{
     render(){
         return (
             <nav className="header">
-
+                    hola
             </nav>
         );
     }
