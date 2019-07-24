@@ -1,0 +1,16 @@
+.flotante{
+    position: absolute;
+    top: 60px;
+    max-width: 100px;
+    min-width: 100px;
+    left: 50%;
+    margin-left:-50px; 
+}
+.title{
+   
+    color:grey
+}
+.value{
+    font-weight: bold;
+    font-size:17px;
+}

@@ -2,22 +2,55 @@
     "elements": [
         {
             "title":"REVENUE",
-            "total":"200000",
             "simbol":"€",
-            "tablet":"60",
-            "smartPhone":"40"
+            "data":[
+                
+                {
+                    "label": "Tablet",
+                    "value": 120000,
+                    "color": "rgba(129,210,70,1)"
+                },
+                {
+                    "label": "Smartphone",
+                    "value": 80000,
+                    "color": "rgba(57,102,19,1)"
+                }
+            ]
         },
         {
             "title": "IMPRESIONS",
-            "total": "50000000",
-            "tablet": "40",
-            "smartPhone": "60"
+            "data": [
+                {
+                    "label": "Tablet",
+                    "value": 20000000,
+                    "color": "rgba(112,197,231,1)"
+                },
+                {
+                    "label": "Smartphone",
+                    "value": 30000000,
+                    "color": "rgba(43,79,102,1)"
+                }
+                
+            ]
+            
         },
         {
             "title": "VISITS",
-            "total": "600000000",
-            "tablet": "80",
-            "smartPhone": "20"
+            "data": [
+                
+                {
+                    "label": "Tablet",
+                    "value": 480000000,
+                    "color": "rgba(235,201,79,1)"
+                },
+                
+                {
+                    "label": "Smartphone",
+                    "value": 120000000,
+                    "color": "rgba(179,95,44,1)"
+                }
+                
+            ]
         }
     ]
 }
