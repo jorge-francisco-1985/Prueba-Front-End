@@ -5,7 +5,7 @@ class Element extends Component {
     render() {
         var element=this.props.element;
         return (
-            <Card >
+            <Card>
                 <Card.Body>
                     <Card.Title>{element.title}</Card.Title>
                     <Card.Text>
