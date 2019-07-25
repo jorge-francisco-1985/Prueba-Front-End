@@ -78,7 +78,7 @@ class Element extends Component {
                         <Doughnut
                             data={this.state.chartData}
                             options={{
-                                cutoutPercentage: 85,
+                                cutoutPercentage: 90,
                                 legend: {
                                     display: false,
                                     rotation: -0.7 * Math.PI
