@@ -1,6 +1,10 @@
 
-En el directorio del proyecto, ejecuta el comando:
+En el directorio del proyecto, ejecuta los comandos:
 
+Para instalar las dependencias
+### `npm install`  
+
+Para ejecutar el proyecto
 ### `npm start`
 
 
