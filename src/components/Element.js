@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Row,Col } from 'react-bootstrap';
-import { Doughnut,Line} from 'react-chartjs-2';
+import { Doughnut} from 'react-chartjs-2';
 import './Element.css';
 import Legend from './Legend';
 import Title from './Title';

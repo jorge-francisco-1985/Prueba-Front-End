@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Row, Container, Col } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap';
 
 import './Legend.css';
 
